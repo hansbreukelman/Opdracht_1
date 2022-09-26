@@ -1,2 +1,2 @@
 # Opdracht_1
-Deze repository is voor oefeningen
+Deze repository is voor de eerste week
